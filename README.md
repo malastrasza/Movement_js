@@ -2,7 +2,7 @@
 Simple, pure javascript game that combines basic html layer with js game alike functionality.
 
 ## How to start
-You can acess the game through my github sites [here](https://malastrasza.github.io/Movement_js/).
+You can access the game through my github sites [here](https://malastrasza.github.io/Movement_js/).
 Also you can get there by cloning a repo and launching a project's html in a browser through your code editor.
 
 ## How to play
